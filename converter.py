@@ -92,7 +92,7 @@ def num2Word(n):
     return sp
 
 
-############# globals ################
+
 ones = ["", "one ", "two ", "three ", "four ", "five ",
         "six ", "seven ", "eight ", "nine "]
 tens = ["ten ", "eleven ", "twelve ", "thirteen ", "fourteen ",
